@@ -1,0 +1,18 @@
+Model Training Results
+==================================================
+
+Accuracy: 0.8000
+Training samples: 700
+Testing samples: 300
+Features used: 12
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         LOW       0.85      0.86      0.86       153
+      MEDIUM       0.70      0.76      0.73       106
+        HIGH       0.93      0.66      0.77        41
+
+    accuracy                           0.80       300
+   macro avg       0.83      0.76      0.79       300
+weighted avg       0.81      0.80      0.80       300
